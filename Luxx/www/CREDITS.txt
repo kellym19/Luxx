@@ -1,0 +1,58 @@
+----------------------------------------------------------------------------------
+SideMV - BASIC SIDESCROLLER TEMPLATE || Rpg Maker MV
+vv0.2.3 || 02/07/2023
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+This demo can be used with the only condition that the creators 
+of the plugins and sideMVs are mentioned in the game credits.
+
+Thanks for your understanding.
+----------------------------------------------------------------------------------
+SideMV Office (DISCORD): SideDustyOffice
+----------------------------------------------------------------------------------
+
+CREDITS
+
+-SideMV:
+Graphics and mechanics
+
+-2D Character Sprite & Backgrounds:
+https://craftpix.net/freebies/free-3-cyberpunk-characters-pixel-art/
+
+-Galv:
+GALV_CharacterAnimations
+GALV_JumpAbility
+GALV_LayerGraphics
+GALV_ActionIndicators
+GALV_CFStepSE
+GALV_CharacterFrames
+GALV_MessageSoundEffects
+GALV_MessageStyles
+Galv_PixelMove
+GALV_DiagonalMovement
+GALV_StationaryTurn
+
+-Others:
+IgnisSmoothCameraSlide
+DK_Big_Events
+FixedDirectionHorizontal
+HIME_CommonEventButtons
+MOG_CharacterMotion
+SRD_SkipTitleWithoutSave
+ZE - Key Mapper
+Community_Basic
+MRP_CameraMouseMove
+
+
+----------------------------------------------------------------------------------
+Take care, game devs! ;)
+-Side & Square
+----------------------------------------------------------------------------------
+
+More info: 
+
+https://www.youtube.com/@sidemv/featured
+https://sidemv.itch.io/
+----------------------------------------------------------------------------------
+
+
